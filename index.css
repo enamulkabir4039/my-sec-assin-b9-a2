@@ -69,17 +69,15 @@
     font-weight: 400;
     line-height: 26px; /* 162.5% */
     margin-left: 270px;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 .banner-btn{
     display: inline-flex;
     gap: 24px;
     border-radius: 15px;
-    /* background: rgb(255, 255, 255); */
-    /* width: 450px; */
     height: 40px;
     margin-left: 220px;
-    margin-top: 150px;
+    margin-top: 50px;
     
 }
 
@@ -88,7 +86,9 @@
     color: aliceblue;
     border-radius: 8px;
     width: 174px;
-    font-size: 16px; 
+    font-size: 16px;
+    height: 40px;
+   
 }
 .btn-select{
     background-color: rgb(255, 255, 255);
@@ -110,4 +110,64 @@
     border-radius: 8px;
     width: 174px;
     font-size: 16px;
+}
+
+/* popular section */
+
+.popular-section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+.popular-header{
+    color: #131318;
+    /* text-align: center; */
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 40px;
+}
+.popular-title{
+    width: 577px;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-left: 50px;
+}
+.popular-list{
+    width: 525px;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-left: 50px;
+}
+.popular-description{
+    width: 577px;
+    color: rgba(19, 19, 24, 0.70);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-left: 50px;
+}
+.btn-primary-2{
+    background-color: #ff5400;
+    color: aliceblue;
+    border-radius: 8px;
+    width: 174px;
+    font-size: 16px;
+    height: 40px;
+    margin-left: 50px;
+}
+.popular-img{
+    margin-right: 59px;
 }
