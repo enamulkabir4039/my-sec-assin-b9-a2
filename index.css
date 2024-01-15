@@ -196,3 +196,127 @@
     line-height: 26px; /* 162.5% */
     margin-left: 338px;
 }
+
+/* maldives-indonesia */
+
+.maldives-indonesia{
+    display: flex;
+    /* align-content: center; */
+    gap: 30px;
+    margin-left: 100px;
+
+}
+.maldives{
+    color: #ffffff;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 5.png');
+    width: 573px;
+    height: 300px;
+    flex-shrink: 0;
+}
+.indonesia{
+    color: #ffffff;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 8.png');
+    width: 573px;
+    height: 300px;
+    flex-shrink: 0;
+}
+
+/* srilanka-northamerica-kashmir */
+
+.srilanka-northamerica-kashmir{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+    /* margin-top: 0px; */
+
+}
+
+.srilanka{
+    color: #ffffff;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 6.png');
+    width: 374px;
+    height: 286px;
+    flex-shrink: 0;
+
+}
+.northamerica{
+    color: #ffffff;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 7.png');
+    width: 474px;
+    height: 286px;
+    flex-shrink: 0;
+
+}
+.kashmir{
+    color: #ffffff;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 9.png');
+    width: 274px;
+    height: 286px;
+    flex-shrink: 0;
+}
+
+/* bangladesh-bandarban */
+
+.bangladesh-bandarban{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+
+}
+.bangladesh{
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('./Images/Rectangle\ 11.png');
+    width: 473px;
+    height: 300px;
+    flex-shrink: 0;
+}
+.bandarban{
+    color: #FFF;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background-image: url('/Images/Rectangle\ 10.png');
+    width: 673px;
+    height: 300px;
+    flex-shrink: 0;
+
+}
