@@ -487,3 +487,73 @@
     font-weight: 700;
     line-height: 26px; /* 162.5% */
 }
+
+/* form-section */
+
+.form-section{
+    display: flex;
+    gap: 80px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.form-text{
+    width: 474px;
+    height: 422px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+}
+.form-header{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 35px;
+}
+.form-title{
+    width: 350px;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-left: 35px;
+}
+
+.form-img{
+    width: 672px;
+    height: 422px;
+    flex-shrink: 0;
+}
+.your-name, .your-email{
+    color: rgba(19, 19, 24, 0.30);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 393px;
+    height: 52px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 15px;
+    margin-left: 35px;
+}
+.btn-primary-3{
+    background-color: #ff5400;
+    color: aliceblue;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 8px;
+    /* width: 174px; */
+    font-size: 16px;
+    width: 399px;
+    height: 52px;
+    margin-top: 15px;
+    margin-left: 35px;
+}
