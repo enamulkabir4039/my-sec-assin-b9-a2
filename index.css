@@ -450,5 +450,40 @@
     font-weight: 400;
     line-height: 26px; /* 162.5% */
     margin-left: 50px;
+}
 
+/* simple-section */
+
+.simple-section{
+    display: flex;
+    margin-top: 60px;
+    gap: 50px;
+    margin-left: 50px;
+}
+.simple-header{
+    width: 448px;
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 60px; /* 150% */
+}
+.simple-title{
+    width: 532px;
+    color: #5A5A5D;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+}
+.simple-list{
+    width: 518px;
+    color: #131318;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 162.5% */
 }
